@@ -1,0 +1,43 @@
+.bg-black{
+    background-color: black;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+#head{
+   
+    color: rgb(197, 4, 4);
+    font-size: 30pt;
+}
+p{
+    color: rgb(243, 247, 252);
+}
+
+.about-section{
+    margin-top: 50px;
+    font-size: 29.7px;
+    font-weight: normal;
+    line-height: 50px;
+    
+    
+}
+#top{
+    margin-top: 20px;
+}
+
+#button-2{
+    text-align: left;
+    text-decoration: none;
+    margin-left:143px;
+    color: rgb(172, 36, 36);
+}
+#Models{
+    color: rgb(172, 36, 36);
+    margin-bottom: 50px;
+}
+
+#footer{
+    background-image: url("../images/images/backgroound-2\ \(2\).jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+   
+}
